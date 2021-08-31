@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="音乐精选" />
+    <item android:title="宝藏音乐人" />
+    <item android:title="超然现场" />
+    <item android:title="演唱演奏" />
+    <item android:title="音乐安利" />
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="发现"
+        android:icon="@drawable/find"
+        android:orderInCategory="0"/>
+
+    <item android:title="我的"
+        android:icon="@drawable/my"
+        android:orderInCategory="1"/>
+
+    <item android:title="播客"
+        android:icon="@drawable/player"
+        android:orderInCategory="2"/>
+
+    <item android:title="云村"
+        android:icon="@drawable/people"
+        android:orderInCategory="3"/>
+
+</menu>
